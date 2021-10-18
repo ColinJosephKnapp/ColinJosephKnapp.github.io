@@ -37,12 +37,13 @@
         // ALL YOUR CODE GOES BELOW HERE ///////////////////////////////////////
         
         // example: 
-        createCollectable(type.steve, 200, 170, 6, 0.7);
-        
+        createCollectable(type.grace, 350, 542, 0, 0);
+        createCollectable(type.max, 770, 285, 0, 0);
+        createCollectable(type.kennedi, 360, 240, 0, 0);
         
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
-    };
+    }
     collectable.init = init;
 })(window);
